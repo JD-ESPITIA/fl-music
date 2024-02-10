@@ -1,0 +1,25 @@
+List<String> getLyrics() {
+  return [
+    '[Intro]',
+    'Vamo',
+    '(Un, dos, tres, cuatro)',
+    '[Verso 1]',
+    'El vino entibia sueños al jadear',
+    'Desde su boca de verdeado dulzor',
+    'Y entre los libros de la buena memoria',
+    'Se queda oyendo como un ciego frente al mar',
+    'Mi voz le llegará',
+    'Mi boca también (Uh-uh)',
+    'Tal vez le confiaré',
+    'Que eras el vestigio del futuro',
+    '[Verso 2]',
+    'Rojas y verdes luces del amor',
+    'Prestidigitan bajo un halo de rush',
+    '¿Qué sombra extraña te ocultó de mi guiño',
+    'Que nunca oíste la hojarasca crepitar?',
+    'Pues, yo te escribiré',
+    'Yo te haré llorar',
+    'Mi boca besará',
+    'Toda la ternura de tu acuario (Uh, yeh)',
+  ];
+}
