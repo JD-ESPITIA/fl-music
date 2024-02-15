@@ -1,3 +1,3 @@
-# flutter_application_designs
+# flutter_application_music
 
 A new Flutter project.
